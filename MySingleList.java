@@ -1,8 +1,6 @@
 /**
  * Created with IntelliJ IDEA.
  * Description:
- * User: GaoBo
- * Date: 2020-10-20
  * Time: 9:40
  */
 class Node {
